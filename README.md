@@ -5,3 +5,5 @@ Author: Alia Hnery
 Course: Web Development & Design
 Year: 2026
 Disclaimer: Created for Educational Purposes.
+
+[Click here to see the live comic strip](https://aliahenry.github.io/web-comic-strip/)
